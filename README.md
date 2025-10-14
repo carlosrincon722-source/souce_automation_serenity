@@ -69,7 +69,7 @@ Este proyecto forma parte de un portafolio QA automatizador, demostrando habilid
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/<tu-usuario>/saucedemo-automation.git
+   git clone https://github.com/carlosrincon722-source/souce_automation_serenity.git
    cd saucedemo-automation
 Verificar Java y Maven
 
